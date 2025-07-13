@@ -1,2 +1,4 @@
 # venetskii-codex
-Collection of Programming Books written by Sergei Venetskii
+A Collection of Tech Books written by Sergei Venetskii
+
+The Books is comming soon...
